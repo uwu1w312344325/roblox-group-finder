@@ -1,0 +1,4 @@
+startid: 1 # where to start min: 1
+stopid: 11000000 # where to stop max: 11000000
+webhook: "https://discord.com/api/webhooks/1175477619937005729/UEnB23MViKdSowiR9qmkgvO72MSgaaxMKtIc1FAgdrkFBcnZb-WvEMA4zEprje1-vsHu" # your webhook
+workers: 50 # how fast the program runs (takes up more cpu and memory when high amount)
